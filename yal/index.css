@@ -1,0 +1,15 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+.intro {
+  position: relative;
+  height: 100vh;
+}
+.fondo {
+  position: absolute;
+}
+.logo {
+  position: absolute;
+}
